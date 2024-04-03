@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou buscando emprego como desenvolvedor front-end Junior.
-- 🤔 Estudando Javascript, e em breve typescript
+- 🤔 Estudando Javascript, Php, Mysql
 - 💬 Contate-me no email: kevinalencar2020@gmail.com
 - 😄 Pronouns: ele/dele
 ##
