@@ -21,15 +21,7 @@
   <img align="center" alt="Kevin-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-### 🌟 Projetos Destacados
-- [**Projeto 1**](https://github.com/alencarrkevin/projeto1): Descrição curta do projeto 1.
-- [**Projeto 2**](https://github.com/alencarrkevin/projeto2): Descrição curta do projeto 2.
-- [**Projeto 3**](https://github.com/alencarrkevin/projeto3): Descrição curta do projeto 3.
 
-### 📝 Últimos Artigos
-- [**Artigo 1**](https://medium.com/@alencarrkevin/artigo1): Descrição curta do artigo 1.
-- [**Artigo 2**](https://medium.com/@alencarrkevin/artigo2): Descrição curta do artigo 2.
-- [**Artigo 3**](https://medium.com/@alencarrkevin/artigo3): Descrição curta do artigo 3.
 
 ### 📫 Contato
 <div>
