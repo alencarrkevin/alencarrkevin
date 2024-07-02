@@ -21,8 +21,6 @@
   <img align="center" alt="Kevin-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-
-
 ### 📫 Contato
 <div>
   <a href="https://instagram.com/alencarr_kevin" target="_blank">
@@ -42,5 +40,5 @@
 ##
 
 <div align="center">
-  <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/alencarrkevin/alencarrkevin/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
