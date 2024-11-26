@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Kevin!!
 
-- 🔭 Atualmente trabalho como desenvolvedor back-end especializado em PHP.
-- 🌱 Estou sempre aprendendo novas tecnologias, atualmente focado em JavaScript, PHP e MySQL.
-- 💬 Entre em contato comigo pelo email: kevinalencar2020@gmail.com
+- 🔭 Atualmente trabalho como desenvolvedor fullstack especializado em PHP.
+- 🌱 Estou sempre aprendendo novas tecnologias, atualmente focado em laravel e react, vue.js.
+- 💬 Entre em contato comigo pelo email: kevinalencar2019@gmail.com
 - 😄 Pronomes: ele/dele
 
 <div align="center">
