@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Kevin!!
 
-- 🔭 Atualmente trabalho como desenvolvedor fullstack especializado em PHP.
+- 🔭 Atualmente trabalho como desenvolvedor fullstack em PHP.
 - 🌱 Estou sempre aprendendo novas tecnologias, atualmente focado em laravel e react, vue.js.
 - 💬 Entre em contato comigo pelo email: kevinalencar2019@gmail.com
-- 😄 Pronomes: ele/dele
+- 😄 Meus README,geralmente possuem videos do funcionamento do projeto!
 
 <div align="center">
   <a href="https://github.com/alencarrkevin">
